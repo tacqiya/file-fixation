@@ -6,3 +6,4 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['upload_file_cf7_external_extension'] = 'welcome/upload_file_cf7_external_extension';
+$route['delete-fing-files'] = 'welcome/delete_cert_files';
